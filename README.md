@@ -14,3 +14,5 @@
 - **Database** : MySQL 8.0.22
 - **ORM** : Mybatis
 - **Web-Server** : Apache Tomcat 9.0.65
+
+![main](https://github.com/Ryuintae/SpringBoard/assets/101119025/d355b77c-764c-46ef-90b0-3aeb357f4bdf)
