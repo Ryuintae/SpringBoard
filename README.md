@@ -26,4 +26,5 @@
 <hr>
 
 ![content](https://github.com/Ryuintae/SpringBoard/assets/101119025/647e5f40-99bc-4ed8-abb0-2fce413ce098)
+<br>
 간단하게 작성 내용 , 조회수 , 수정하기 , 삭제하기 등을 추가하였습니다
