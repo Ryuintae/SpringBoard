@@ -17,7 +17,12 @@
 
 ![main](https://github.com/Ryuintae/SpringBoard/assets/101119025/d355b77c-764c-46ef-90b0-3aeb357f4bdf)
 글 작성은 세션을 이용해 로그인 했을 시 에만 가능하도록 하였습니다
+<hr>
+
 ![login](https://github.com/Ryuintae/SpringBoard/assets/101119025/10b5fdab-7b1e-445c-a565-6852b53947ab)
+<hr>
+
 ![registe](https://github.com/Ryuintae/SpringBoard/assets/101119025/00dc7bf9-84ce-4e65-b524-be913513637a)
 <hr>
+
 ![content](https://github.com/Ryuintae/SpringBoard/assets/101119025/647e5f40-99bc-4ed8-abb0-2fce413ce098)
